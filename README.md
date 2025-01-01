@@ -39,6 +39,6 @@ This project involves analyzing World Bank data to uncover insights into global 
 
 ## Sample Visualization
 ### Scatter Plot of Population vs GDP
-![Population vs GDP](images/population_vs_gdp.png)
+![Population vs GDP](Plot)
 
 
